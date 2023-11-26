@@ -1,5 +1,4 @@
 # Bike-store
-I’m so glad to share my project "Bike store"  
 this project was based in its goal on creating a database that we can use to analyse data and display it in the form of a set of reports - charts - dashboard in order to present it to decision makers
 Project steps :
 Understanding the Business 
